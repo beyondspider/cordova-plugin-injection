@@ -1,0 +1,9 @@
+# OS X
+.DS_Store
+
+# Adjust SDK repository
+doc/
+ext/
+example/
+test_app/
+test_plugin/

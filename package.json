@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-injection",
+  "version": "1.0.0",
+  "description": "injection",
+  "cordova": {
+    "id": "cordova-plugin-injection",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "beyondspider",
+  "license": "ISC"
+}
