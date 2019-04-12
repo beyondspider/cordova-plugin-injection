@@ -32,3 +32,8 @@ edit index.html, add follow code fragment
 ```
 http://injection/cordova.js will redirect to local file:///www/cordova.js.
 
+## License
+
+Copyright (c) 2019 beyondspider
+
+[MIT License](http://en.wikipedia.org/wiki/MIT_License)
