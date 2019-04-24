@@ -8,7 +8,7 @@
 #import "CDVURLProtocolInjection.h"
 #import <CoreServices/UTType.h>
 
-NSString* const kCDVAssetsLibraryPrefixes = @"http://injection/";
+NSString* const kCDVAssetsLibraryPrefixes = @"//injection/";
 
 @implementation CDVURLProtocolInjection
 
