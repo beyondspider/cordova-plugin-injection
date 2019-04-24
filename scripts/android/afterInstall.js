@@ -38,7 +38,7 @@ module.exports = function(ctx) {  
 
         var injectionContent = 
         `//INJECTION_TOKEN_BEGIN
-        String INJECTION_TOKEN = "http://injection/";
+        String INJECTION_TOKEN = "//injection/";
         if (url != null && url.contains(INJECTION_TOKEN)) {
             String assetPath = "www/" + url.substring(url.indexOf(INJECTION_TOKEN) + INJECTION_TOKEN.length(), url.length());
             try {
